@@ -1,4 +1,2 @@
-# ReactBoiler
-Standard React Boiler with Webpack and Basic PKG JSON
-
-Feel Free to Fork and Clone
+# Farm To Market
+An App to connect farmers and ranchers to consumers
